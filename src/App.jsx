@@ -1,7 +1,7 @@
 
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import './App.css'
-import MainPage from './components/mainPage'
+import MainPage from './components/MainPage'
 import Chat from './components/Chat'
 import SideBar from './components/SideBar'
 import Home from './components/Home'
